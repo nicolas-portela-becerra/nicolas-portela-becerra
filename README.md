@@ -11,5 +11,8 @@ Desarrollador backend con experiencia en Java y Spring Boot, enfocado en integra
 ### 🧗 **[Climbd](https://github.com/nicolas-portela-becerra/ClimbdBackend)** 
 Backend y API para una aplicación de escalada
 
+### 🧗 **[Climbd](https://github.com/nicolas-portela-becerra/ClimbdFrontend)** 
+Frontend para una aplicación de escalada
+
 ## Contacto
 - [Linkedin](https://www.linkedin.com/in/nicolas-portela-41b8a5252/)
